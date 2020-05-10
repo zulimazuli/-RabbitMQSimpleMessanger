@@ -5,7 +5,7 @@ using RabbitMQ.Client.Events;
 
 namespace Receiver
 {
-    class Program
+    class Receiver
     {
         static void Main(string[] args)
         {

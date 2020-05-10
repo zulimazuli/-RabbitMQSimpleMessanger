@@ -4,7 +4,7 @@ using RabbitMQ.Client;
 
 namespace Sender
 {
-    class Program
+    class Sender
     {
         static void Main(string[] args)
         {
